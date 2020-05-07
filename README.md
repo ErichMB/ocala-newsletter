@@ -1,6 +1,6 @@
 ## Local testing
 
-Fromg the root directory, run the following command: python -m http.server
+From the root directory, run the following command: python -m http.server
 
 The page should now be available at `http:localhost:8000`
 
@@ -13,4 +13,4 @@ The page should now be available at `http:localhost:8000`
 
 ## See it live!
 
-Navigate [here[](https://ErichMB.github.io/ocala-newsletter) to see it live!
+Navigate [here][(https://ErichMB.github.io/ocala-newsletter)] to see it live!
